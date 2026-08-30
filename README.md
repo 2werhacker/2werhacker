@@ -72,4 +72,12 @@
 
 <br/>
 
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdikadir-mustafe-mohamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
