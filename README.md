@@ -46,20 +46,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2werhacker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-rho-lyart.vercel.app/api?username=2werhacker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2werhacker&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39D353&fire=FF6633&currStreakLabel=39D353" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2werhacker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2werhacker&theme=github-compact&hide_border=true&bg_color=0d1117&color=39D353&line=39D353&point=FF6633" width="49%"/>
+<img src="https://github-readme-stats-rho-lyart.vercel.app/api/top-langs/?username=2werhacker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&langs_count=8" width="49%"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=2werhacker&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 <br/>
